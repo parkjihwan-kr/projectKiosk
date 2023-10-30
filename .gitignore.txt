@@ -1,0 +1,8 @@
+*.log
+*.exe
+*.out
+.idea/
+.vscode/
+.project
+.classpath
+.env
